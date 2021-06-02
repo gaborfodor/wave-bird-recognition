@@ -1,0 +1,15 @@
+jupyter==1.0.0
+numpy==1.19.1
+scipy==1.5.2
+librosa==0.8.0
+plotly==4.9.0
+pandas==1.1.0
+matplotlib==3.3.0
+seaborn==0.10.1
+tqdm==4.48.1
+torch==1.6.0
+torchvision==0.7.0
+torchlibrosa==0.0.4
+Markdown==3.2.2
+h2o-wave==0.16.0
+pytest==6.0.2
