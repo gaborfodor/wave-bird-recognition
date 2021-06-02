@@ -12,3 +12,8 @@ pip install -r requirements.txt
 ```
 Download & extract [Wave](https://github.com/h2oai/wave/releases/tag/v0.16.0)
 
+
+## Run the app
+1. Start the Wave development server: `$ ./waved`
+2. Start the app: `$ wave run birds.run`
+3. Go to http://localhost:10101/
